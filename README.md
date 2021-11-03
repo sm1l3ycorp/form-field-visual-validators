@@ -1,6 +1,6 @@
-# Form Field Visual Validators
+# Form Field Visual Validation Library
 
-Visual validation component leveraging react state hooks. Easily customizable and applicable to form inputs, selects, etc.
+Form field validation library for React which leverages hooks to render an icon based on validation logic. Easily customizable and applicable to inputs, selects, etc.
 
 Blank<br />
 <img src="blank.PNG" /> 
