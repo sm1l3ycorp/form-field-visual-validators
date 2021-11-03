@@ -4,7 +4,7 @@ Visual validation component based on state hooks. Easily customizable and applic
 
 Blank<br />
 <img src="blank.PNG" /> 
-Error<br />
+<br />Error<br />
 <img src="error.PNG" /> 
-Valid<br />
+<br />Valid<br />
 <img src="valid.PNG" /> 
