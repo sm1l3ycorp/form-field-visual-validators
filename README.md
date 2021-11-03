@@ -1,6 +1,6 @@
 # Form Field Visual Validators
 
-Visual validation component based on state hooks. Easily customizable and applicable to form inputs, selects, etc.
+Visual validation component leveraging react state hooks. Easily customizable and applicable to form inputs, selects, etc.
 
 Blank<br />
 <img src="blank.PNG" /> 
