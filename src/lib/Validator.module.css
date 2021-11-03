@@ -1,0 +1,18 @@
+.icon {
+  color: #707070;
+  margin-top: 0.313rem;
+  margin-left: .5rem;
+}
+
+.errorIcon {
+  color: #f80000;
+  margin-top: 0.313rem;
+  margin-left: .5rem;
+}
+
+.validIcon {
+  color: #009e15;
+  margin-top: 0.313rem;
+  margin-left: .5rem;
+}
+
