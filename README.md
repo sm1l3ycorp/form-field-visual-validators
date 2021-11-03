@@ -2,9 +2,9 @@
 
 Visual validation component based on state hooks. Easily customizable and applicable to form inputs, selects, etc.
 
-Blank
+Blank<br />
 <img src="blank.PNG" /> 
-Error
+Error<br />
 <img src="error.PNG" /> 
-Valid
+Valid<br />
 <img src="valid.PNG" /> 
